@@ -1,4 +1,4 @@
-const Answers = [
+export const Answers = [
   { msg: "It is certain.", color: "green" },
   { msg: "It is decidedly so.", color: "green" },
   { msg: "Without a doubt.", color: "green" },
@@ -20,5 +20,3 @@ const Answers = [
   { msg: "Outlook not so good.", color: "red" },
   { msg: "Very doubtful.", color: "red" },
 ];
-
-export default Answers;
